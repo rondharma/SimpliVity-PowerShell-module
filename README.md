@@ -3,7 +3,7 @@ SimpliVity POSH modules rendition for my automation works
 
 This POSH module consists of two files:
   1. Simplivity.psd1 - Contains the manifest and customization of the SimpliVity.psm1
-  2. Simplivity.psm1 - Contains the scripts for the SimpliVity module
+  2. Simplivity.psm1 - Contains the POSH wrapper for the SimpliVity REST API
 
 Currently there is no installation scripts for this module. Please follow the recommendation of POSH module installation as described in https://docs.microsoft.com/en-us/powershell/developer/module/installing-a-powershell-module.
 The recommended location is determined by the path specified in the $Env:PSModulePath Microsoft Windows environment variable.
