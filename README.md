@@ -1,4 +1,4 @@
-# SimpliVity-POSH-module
+# SimpliVity-PowerShell-module
 SimpliVity POSH modules rendition for my automation works
 
 This POSH module consists of two files:
